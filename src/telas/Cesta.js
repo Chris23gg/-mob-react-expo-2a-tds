@@ -1,6 +1,6 @@
-import react from 'react'
-import { text } from 'react-native';
+import React from 'react'
+import { Text } from 'react-native';
 
  export default function Cesta(){
-    return <text>Cesta</text>
+    return <Text>Cesta</Text>
 }
